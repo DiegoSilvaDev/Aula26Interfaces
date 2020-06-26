@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
